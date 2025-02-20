@@ -10,5 +10,4 @@ for line in filed:
     line = line.strip("\n")
     if line >= startpoint and line <= endpoint:
         print(line)
-
 file.close()
