@@ -66,7 +66,7 @@ def partition(array, left, right):
         array[i], array[right] = array[right], array[i]
     return i
 
-#$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+#$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 #mergeSort function in python
 
 def mergeSort(array):
