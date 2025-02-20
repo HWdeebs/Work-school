@@ -1,5 +1,4 @@
 public class CheckForSortedArray {
-
     public static boolean inOrder(int[] nums) {
         int i;
         boolean y = true;
